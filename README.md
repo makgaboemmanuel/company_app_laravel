@@ -3,7 +3,7 @@ This is a Laravel Application that lets users post content on the blog under spe
 
 You need the following configurations before running the application:
 
-- run command: git clone https://github.com/makgaboemmanuel/bloagapp_laravel.git
+- run command: git clone https://github.com/makgaboemmanuel/company_app_laravel.git
 - download composer from website: https://getcomposer.org/download/
 - run the command: composer global require "laravel/installer"
 - install XAMPP for windows
